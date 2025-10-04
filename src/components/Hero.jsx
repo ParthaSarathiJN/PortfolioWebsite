@@ -47,7 +47,7 @@ const Hero = () => {
           </div>
           <div style={styles.socialLinks}>
             <a 
-              href="https://github.com/yourusername" 
+              href="https://github.com/ParthaSarathiJN" 
               target="_blank" 
               rel="noopener noreferrer"
               style={styles.socialLink}
@@ -55,7 +55,7 @@ const Hero = () => {
               GitHub
             </a>
             <a 
-              href="https://linkedin.com/in/yourusername" 
+              href="https://www.linkedin.com/in/parthasarathijn/" 
               target="_blank" 
               rel="noopener noreferrer"
               style={styles.socialLink}
@@ -63,7 +63,7 @@ const Hero = () => {
               LinkedIn
             </a>
             <a 
-              href="mailto:your.email@example.com"
+              href="mailto:parthasarathijn0@gmail.com"
               style={styles.socialLink}
             >
               Email
